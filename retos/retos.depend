@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645052724 source:a:\tareas\blueosean\codeblocks\retos\main.c
+	<stdio.h>
+	<stdlib.h>
+
